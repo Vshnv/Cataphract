@@ -1,0 +1,4 @@
+name: Cataphract
+version: @version@
+main: com.github.vshnv.cataphract.Cataphract
+api-version: 1.13
