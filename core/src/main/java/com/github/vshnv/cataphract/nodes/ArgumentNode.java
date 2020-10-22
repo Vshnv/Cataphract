@@ -31,7 +31,7 @@ public class ArgumentNode extends Node {
 
     @Override
     public boolean matches(String input) {
-        return getTransformer().canTransform(input);
+        return getTransformer().transform(input) != null;
     }
 
     public Object parse(String input) {

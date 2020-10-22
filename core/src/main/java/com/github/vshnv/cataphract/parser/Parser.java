@@ -6,5 +6,5 @@ import java.lang.reflect.Method;
 import java.util.List;
 
 public interface Parser {
-    List<Node> parse(List<Token> tokenList, Method handler);
+    Command parse(List<Token> tokenList, Method handler);
 }

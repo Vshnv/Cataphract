@@ -6,12 +6,10 @@ version = pluginVersion
 sourceCompatibility = '1.8'
 targetCompatibility = '1.8'
 
+
+
 repositories {
     mavenCentral()
-    maven {
-        name = 'placeholderapi'
-        url = 'https://repo.extendedclip.com/content/repositories/placeholderapi/'
-    }
     maven {
         name = 'spigotmc-repo'
         url = 'https://hub.spigotmc.org/nexus/content/repositories/snapshots/'

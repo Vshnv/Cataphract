@@ -1,6 +1,5 @@
 package com.github.vshnv.cataphract.parser;
 
-import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
@@ -21,4 +20,5 @@ public class CommandLexer implements Lexer {
         }
         return tokenizedCommand;
     }
+
 }

@@ -50,4 +50,5 @@ public enum TokenType {
     public Token evaluateToken(String match) {
         return Token.of(this, match);
     }
+
 }
