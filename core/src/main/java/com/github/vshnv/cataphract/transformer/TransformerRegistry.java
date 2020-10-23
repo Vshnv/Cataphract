@@ -1,4 +1,4 @@
-package com.github.vshnv.cataphract.transformers;
+package com.github.vshnv.cataphract.transformer;
 
 import java.util.HashMap;
 import java.util.Map;

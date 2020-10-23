@@ -20,5 +20,4 @@ public class CommandLexer implements Lexer {
         }
         return tokenizedCommand;
     }
-
 }

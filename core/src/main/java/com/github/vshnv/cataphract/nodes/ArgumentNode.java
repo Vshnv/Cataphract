@@ -1,7 +1,7 @@
 package com.github.vshnv.cataphract.nodes;
 
-import com.github.vshnv.cataphract.transformers.Transformer;
-import com.github.vshnv.cataphract.transformers.TransformerRegistry;
+import com.github.vshnv.cataphract.transformer.Transformer;
+import com.github.vshnv.cataphract.transformer.TransformerRegistry;
 
 import java.util.Objects;
 
